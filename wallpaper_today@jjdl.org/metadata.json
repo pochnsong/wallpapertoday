@@ -1,0 +1,7 @@
+{
+ "uuid": "wallpaper_today@jjdl.org",
+ "name": "wallpaper_today",
+ "description": "壁纸",
+ "icon": "document-save",
+ "save_path": "/tmp/" 
+}
